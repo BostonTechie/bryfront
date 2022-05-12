@@ -21,7 +21,7 @@ const LoginPage = props => {
         updateMessage={updateMessage}
       />
     </main>
-  )
+  ) 
 }
-
+ 
 export default LoginPage
